@@ -1,0 +1,3 @@
+Simple C program to learn socket programming.
+
+The server returns the current datetime whenever a connection with a client is made.
